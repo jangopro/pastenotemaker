@@ -4,6 +4,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1">
+			<a href="#" title=""><span class="glyphicon glyphicon-plus"></span></a>
 			<div class="panel panel-default">
 				<div class="panel-heading">Home</div>
 
